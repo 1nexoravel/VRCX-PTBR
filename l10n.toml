@@ -7,4 +7,4 @@ locales = [
 
 [[paths]]
 reference = "src/localization/en.json"
-l10n = "src/localization/pt.json"
+l10n = "src/localization/{locale}.json"
