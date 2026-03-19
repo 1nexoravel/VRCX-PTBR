@@ -1,4 +1,9 @@
 basepath = "."
+default_locale = "en"
+
+locales = [
+  "pt"
+]
 
 [[paths]]
 reference = "src/localization/en.json"
