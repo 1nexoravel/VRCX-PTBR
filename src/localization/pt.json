@@ -843,7 +843,7 @@
           "theme_mode_pink": "Rosa",
           "theme_mode_material3": "Material 3",
           "zoom": "Zoom",
-          "vrcplus_profile_icons": "Ícones de Perfil VRCPlus",
+          "vrcplus_profile_icons": "Ícones de Perfil VRC+",
           "show_instance_id": "Mostrar ID da Instância",
           "show_status_bar": "Mostrar Barra de Status",
           "age_gated_instances": "Mostrar Instâncias com Restrição de Idade",
@@ -1084,7 +1084,7 @@
           },
           "save_instance_stickers_to_file": {
             "header": "Salvar Adesivos da Instância em Arquivo",
-            "description": "Salvar stickers colocados na sua pasta de Fotos do VRChat"
+            "description": "Salvar adesivos colocados na sua pasta de Fotos do VRChat"
           },
           "save_instance_emoji_to_file": {
             "header": "Salvar Emojis da Instância em Arquivo",
@@ -1770,7 +1770,7 @@
       "region_eu": "Europa",
       "region_jp": "Japão",
       "content_emoji": "Emoji",
-      "content_stickers": "Stickers",
+      "content_stickers": "Adesivos",
       "content_pedestals": "Pedestais",
       "content_prints": "Impressões",
       "content_drones": "Drones",
@@ -1974,12 +1974,12 @@
       "clear_errors": "Limpar Erros"
     },
     "gallery_icons": {
-      "header": "Gerenciar Fotos, Ícones, Emojis e Stickers",
+      "header": "Gerenciar Fotos, Ícones, Emojis e Adesivos",
       "recommended_image_size": "Tamanho de imagem recomendado",
       "gallery": "Fotos",
       "icons": "Ícones",
       "emojis": "Emojis",
-      "stickers": "Stickers",
+      "stickers": "Adesivos",
       "prints": "Impressões",
       "inventory": "Inventário",
       "refresh": "Atualizar",
@@ -2682,7 +2682,7 @@
       "load_failed": "Falha ao carregar lista de amigos, saindo"
     },
     "vrcplus": {
-      "required": "VRCPlus necessário"
+      "required": "VRC+ necessário"
     },
     "screenshot_metadata": {
       "deleted": "Metadados de captura de tela excluídos",
