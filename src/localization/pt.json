@@ -260,8 +260,8 @@
       "search_placeholder": "Pesquisar",
       "filters": {
         "Location": "Localização",
-        "OnPlayerJoined": "Jogador entrou",
-        "OnPlayerLeft": "Jogador saiu",
+        "OnPlayerJoined": "Usuário entrou",
+        "OnPlayerLeft": "Usuário saiu",
         "PortalSpawn": "Portal criado",
         "VideoPlay": "Vídeo tocando",
         "Event": "Evento",
@@ -458,7 +458,7 @@
           "closed": "Instância Encerrada"
         },
         "badge": {
-          "earned": "Distintivo Conquistado"
+          "earned": "Insígnia Obtida"
         },
         "vrcplus": {
           "gift": "Presente VRC+"
@@ -929,7 +929,7 @@
             "new_user": "Novo Usuário",
             "user": "Usuário",
             "known_user": "Usuário Conhecido",
-            "trusted_user": "Usuário de Confiança",
+            "trusted_user": "Usuário Confiável",
             "vrchat_team": "Equipe VRChat",
             "nuisance": "Incômodo"
           }
@@ -2040,8 +2040,8 @@
       "search_placeholder": "Pesquisar",
       "search_type_placeholder": "Tipo de Pesquisa",
       "search_types": {
-        "player_name": "Nome do Jogador",
-        "player_id": "ID do Jogador",
+        "player_name": "Nome do Usuário",
+        "player_id": "ID do Usuário",
         "world_name": "Nome do Mundo",
         "world_id": "ID do Mundo"
       },
@@ -2593,7 +2593,7 @@
       "avatar_private_or_deleted": "Avatar é privado ou foi excluído"
     },
     "badge": {
-      "updated": "Distintivo atualizado"
+      "updated": "Insígnia atualizada"
     },
     "instance": {
       "closed": "Instância encerrada",
