@@ -5,7 +5,7 @@
     "no_data": "Sem dados",
     "no_matching_records": "Nenhum registro correspondente",
     "feature_relocated": {
-      "title": "Aviso De Descontinuação",
+      "title": "Aviso de Descontinuação",
       "description": "Este recurso será removido em uma atualização futura. use {feature} em vez disso."
     },
     "actions": {
@@ -35,7 +35,7 @@
     }
   },
   "nav_tooltip": {
-    "friends_locations": "Locais De Amigos",
+    "friends_locations": "Locais de Amigos",
     "feed": "Atividade",
     "game_log": "Registro do Jogo",
     "player_list": "Lista de Jogadores",
@@ -73,7 +73,7 @@
     "delete_dashboard": "Excluir Painel",
     "custom_nav": {
       "header": "Personalizar Navegação",
-      "dialog_title": "Personalizar Menu De Navegação",
+      "dialog_title": "Personalizar Menu de Navegação",
       "new_folder": "Nova Pasta",
       "folder_name_placeholder": "Nome da pasta",
       "folder_icon_placeholder": "Classe do ícone (ex.: ri-menu-fold-line)",
