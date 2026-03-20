@@ -1287,7 +1287,7 @@
         "cancel_friend_request": "Cancelar Pedido de Amizade",
         "send_friend_request": "Enviar Pedido de Amizade",
         "show_avatar_author": "Mostrar Autor do Avatar",
-        "show_fallback_avatar": "Mostrar Detalhes do Avatar de Fallback",
+        "show_fallback_avatar": "Mostrar Detalhes do Avatar de Substitutos",
         "show_previous_instances": "Mostrar Instâncias Anteriores",
         "moderation_block": "Bloquear",
         "moderation_unblock": "Desbloquear",
@@ -1550,7 +1550,7 @@
       "tags": {
         "public": "Público",
         "private": "Privado",
-        "fallback": "Fallback",
+        "fallback": "Substituto",
         "impostor": "Impostor",
         "future_proofing": "Preparado para o Futuro",
         "cache": "Cache",
@@ -1570,7 +1570,7 @@
         "refresh": "Atualizar",
         "share": "Compartilhar",
         "select": "Selecionar Avatar",
-        "select_fallback": "Selecionar Avatar de Fallback",
+        "select_fallback": "Selecionar Avatar Substituto",
         "block": "Bloquear Avatar",
         "unblock": "Desbloquear Avatar",
         "make_public": "Tornar Público",
@@ -2603,7 +2603,7 @@
     },
     "avatar": {
       "change_moderation_failed": "Falha ao alterar moderação do avatar",
-      "fallback_changed": "Avatar de fallback alterado",
+      "fallback_changed": "Avatar substituto alterado",
       "blocked": "Avatar bloqueado",
       "updated_public": "Avatar atualizado para público",
       "updated_private": "Avatar atualizado para privado",
@@ -2676,7 +2676,7 @@
       "display_name_copied": "Nome de Exibição do usuário copiado para a área de transferência",
       "home_reset": "Mundo inicial foi redefinido",
       "request_invite_sent": "Solicitação de convite enviada",
-      "no_fallback_avatar": "Nenhum avatar de fallback definido"
+      "no_fallback_avatar": "Nenhum avatar substituto definido"
     },
     "friend": {
       "load_failed": "Falha ao carregar lista de amigos, saindo"
