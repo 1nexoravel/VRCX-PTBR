@@ -54,7 +54,7 @@
     "tools": "Ferramentas",
     "settings": "Configurações",
     "manage": "Gerenciar",
-    "help_support": "Ajuda & Suporte",
+    "help_support": "Ajuda e Suporte",
     "expand_menu": "Expandir Menu",
     "collapse_menu": "Recolher Menu",
     "toggle_theme": "Alternar Tema"
@@ -76,7 +76,7 @@
       "dialog_title": "Personalizar Menu de Navegação",
       "new_folder": "Nova Pasta",
       "folder_name_placeholder": "Nome da pasta",
-      "folder_icon_placeholder": "Classe do ícone (ex: ri-menu-fold-line)",
+      "folder_icon_placeholder": "Classe do ícone (ex: menu-recolher-linha)",
       "edit_folder": "Editar Pasta",
       "delete_folder": "Excluir Pasta",
       "edit_dashboard": "Editar Dashboard",
