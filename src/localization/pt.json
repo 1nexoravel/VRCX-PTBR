@@ -828,7 +828,7 @@
           "font_family_custom": "Personalizada",
           "font_family_custom_dialog_title": "Família de Fonte Personalizada",
           "font_family_custom_dialog_description": "Insira um valor CSS font-family válido",
-          "font_family_custom_invalid": "font-family inválida. Use nomes de fontes separados por vírgula, ex: 'My Font', Arial, sans-serif",
+          "font_family_custom_invalid": "font-family inválida. Use nomes de fontes separados por vírgula, ex: \"Minha Fonte\", Arial, sans-serif",
           "cjk_font_pack_noto": "Noto Sans CJK",
           "cjk_font_pack_pht": "PuHuiTi CJK",
           "theme_mode_system": "Sistema",
@@ -1031,8 +1031,8 @@
       },
       "pictures": {
         "pictures": {
-          "auto_delete_old_prints": "Excluir Prints Antigos Automaticamente",
-          "auto_delete_prints_from_vrc": "Excluir Prints Antigos do VRC ao Atingir o Limite"
+          "auto_delete_old_prints": "Excluir Impressões Antigas Automaticamente",
+          "auto_delete_prints_from_vrc": "Excluir Impressões Antigas do VRC ao Atingir o Limite"
         }
       },
       "advanced": {
@@ -1074,16 +1074,16 @@
             "disabled_restart_description": "Relatório de erros desativado. Reiniciar o VRCX para aplicar as alterações?"
           },
           "save_instance_prints_to_file": {
-            "header": "Salvar Prints da Instância em Arquivo",
+            "header": "Salvar Impressões da Instância em Arquivo",
             "header_tooltip": "Requer a opção de inicialização do VRC \"--enable-sdk-log-levels\"",
-            "description": "Salvar prints criados na sua pasta de Fotos do VRChat",
-            "crop": "Remover Automaticamente a Borda Branca dos Prints",
-            "crop_convert_old": "Deseja cortar todos os prints que já foram salvos?",
+            "description": "Salvar impressões criadas na sua pasta de Fotos do VRChat",
+            "crop": "Remover Automaticamente a Borda Branca dos Impressões",
+            "crop_convert_old": "Deseja cortar todos as impressões que já foram salvos?",
             "crop_convert_old_confirm": "Sim",
             "crop_convert_old_cancel": "Não"
           },
           "save_instance_stickers_to_file": {
-            "header": "Salvar Stickers da Instância em Arquivo",
+            "header": "Salvar Adesivos da Instância em Arquivo",
             "description": "Salvar stickers colocados na sua pasta de Fotos do VRChat"
           },
           "save_instance_emoji_to_file": {
@@ -1093,7 +1093,7 @@
           "delete_all_screenshot_metadata": {
             "button": "Excluir Metadados de Captura de Tela",
             "ask": "Tem certeza que deseja excluir todos os metadados de capturas de tela VRC & VRCX da sua pasta de Fotos do VRChat?",
-            "confirm": "Excluir todos os metadados de capturas de tela é uma ação muito destrutiva e não pode ser desfeita! Isso inclui todos os prints, subpastas e outras imagens não relacionadas na sua pasta de Fotos do VRChat; se essas fotos são preciosas para você, faça um backup antes de prosseguir.",
+            "confirm": "Excluir todos os metadados de capturas de tela é uma ação muito destrutiva e não pode ser desfeita! Isso inclui todos as impressões, subpastas e outras imagens não relacionadas na sua pasta de Fotos do VRChat; se essas fotos são preciosas para você, faça um backup antes de prosseguir.",
             "confirm_yes": "Sim",
             "confirm_no": "Não"
           },
@@ -1205,7 +1205,7 @@
           "user_generated_content": {
             "header": "Conteúdo Gerado pelo Usuário",
             "folder": "Abrir Pasta",
-            "description": "Abrir ou definir a pasta onde conteúdos como 'Prints' e 'Stickers' são armazenados.",
+            "description": "Abrir ou definir a pasta onde conteúdos como \"'Impressões\" e \"Adesivos\" são armazenados.",
             "set_folder": "Definir Pasta",
             "reset_override": "Redefinir"
           }
@@ -1772,7 +1772,7 @@
       "content_emoji": "Emoji",
       "content_stickers": "Stickers",
       "content_pedestals": "Pedestais",
-      "content_prints": "Prints",
+      "content_prints": "Impressões",
       "content_drones": "Drones",
       "content_items": "Itens",
       "content_third_person": "Terceira Pessoa",
@@ -1980,7 +1980,7 @@
       "icons": "Ícones",
       "emojis": "Emojis",
       "stickers": "Stickers",
-      "prints": "Prints",
+      "prints": "Impressões",
       "inventory": "Inventário",
       "refresh": "Atualizar",
       "upload": "Enviar",
