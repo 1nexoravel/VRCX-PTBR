@@ -69,8 +69,8 @@
     "update_available": "Atualização disponível",
     "update": "Atualizar",
     "mark_all_read": "Marcar Tudo como Lido",
-    "edit_dashboard": "Editar Dashboard",
-    "delete_dashboard": "Excluir Dashboard",
+    "edit_dashboard": "Editar Painel",
+    "delete_dashboard": "Excluir Painel",
     "custom_nav": {
       "header": "Personalizar Navegação",
       "dialog_title": "Personalizar Menu de Navegação",
@@ -79,8 +79,8 @@
       "folder_icon_placeholder": "Classe do ícone (ex: menu-recolher-linha)",
       "edit_folder": "Editar Pasta",
       "delete_folder": "Excluir Pasta",
-      "edit_dashboard": "Editar Dashboard",
-      "delete_dashboard": "Excluir Dashboard",
+      "edit_dashboard": "Editar Painel",
+      "delete_dashboard": "Excluir Painel",
       "folder_empty": "Esta pasta está vazia",
       "folder_drop_here": "Arraste itens aqui",
       "hide": "Ocultar",
@@ -97,9 +97,9 @@
     }
   },
   "dashboard": {
-    "default_name": "Dashboard",
-    "new_dashboard": "Novo Dashboard",
-    "empty": "Este dashboard está vazio",
+    "default_name": "Painel",
+    "new_dashboard": "Novo Painel",
+    "empty": "Este painel está vazio",
     "actions": {
       "start_editing": "Começar a Editar",
       "add_row": "Adicionar Linha",
@@ -111,7 +111,7 @@
       "delete": "Excluir"
     },
     "toolbar": {
-      "name_placeholder": "Nome do Dashboard",
+      "name_placeholder": "Nome do Painel",
       "icon_placeholder": "Classe do Ícone (Opcional)"
     },
     "panel": {
@@ -145,10 +145,10 @@
       "instance_not_in_game": "Não está no jogo",
       "time_ago": "há {time}"
     },
-    "first_save_tip": "Você pode criar mais dashboards. Clique com o botão direito no Menu de Navegação ou use o diálogo Personalizar Navegação para adicionar novos.",
+    "first_save_tip": "Você pode criar mais painéis. Clique com o botão direito no Menu de Navegação ou use o diálogo Personalizar Navegação para adicionar novos.",
     "confirmations": {
-      "delete_title": "Excluir Dashboard",
-      "delete_description": "Tem certeza que deseja excluir este dashboard? Esta ação não pode ser desfeita."
+      "delete_title": "Excluir Painel",
+      "delete_description": "Tem certeza que deseja excluir este painel? Esta ação não pode ser desfeita."
     }
   },
   "side_panel": {
@@ -707,7 +707,7 @@
       "interface": {
         "navigation": {
           "header": "Navegação",
-          "show_new_dashboard_button": "Mostrar Botão \"Novo Dashboard\""
+          "show_new_dashboard_button": "Mostrar Botão \"Novo Painel\""
         },
         "lists_tables": {
           "header": "Listas e Tabelas"
@@ -2946,7 +2946,7 @@
           "description": "Clique com o botão direito em elementos-chave para ações rápidas e opções adicionais"
         },
         "dashboard": {
-          "title": "Dashboards Personalizados",
+          "title": "Painéis Personalizados",
           "description": "Componha seu próprio espaço de trabalho combinando painéis que atendam às suas necessidades"
         },
         "quick_search": {
