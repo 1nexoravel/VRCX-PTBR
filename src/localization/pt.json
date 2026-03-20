@@ -37,7 +37,7 @@
   "nav_tooltip": {
     "friends_locations": "Localização de Amigos",
     "feed": "Feed",
-    "game_log": "Log do Jogo",
+    "game_log": "Registro do Jogo",
     "player_list": "Lista de Jogadores",
     "search": "Pesquisar",
     "favorites": "Favoritos",
@@ -46,7 +46,7 @@
     "favorite_avatars": "Avatares Favoritos",
     "my_avatars": "Meus Avatares",
     "social": "Social",
-    "friend_log": "Log de Amigos",
+    "friend_log": "Registro do Amigo",
     "moderation": "Moderação",
     "notification": "Notificação",
     "friend_list": "Lista de Amigos",
@@ -127,7 +127,7 @@
     },
     "widget": {
       "feed": "Widget de Feed",
-      "game_log": "Widget de Log do Jogo",
+      "game_log": "Widget de Registro do Jogo",
       "instance": "Widget de Instância",
       "config": {
         "filters": "Tipos de Evento",
@@ -241,7 +241,7 @@
         "Avatar": "Avatar",
         "Bio": "Bio"
       },
-      "photon_event_logging": "Log de Eventos Photon"
+      "photon_event_logging": "Registro de Eventos Photon"
     },
     "friends_locations": {
       "online": "Online",
@@ -388,7 +388,7 @@
       "search_placeholder": "Pesquisar",
       "filters": {
         "Friend": "Novo amigo",
-        "Unfriend": "Desamizade",
+        "Unfriend": "Desfazer Amizade",
         "FriendRequest": "Pedido de amizade",
         "CancelFriendRequest": "Cancelar pedido de amizade",
         "DisplayName": "Nome de exibição",
@@ -418,7 +418,7 @@
         "accept": "Aceitar",
         "invite": "Convidar",
         "decline": "Recusar",
-        "delete_log": "Excluir log",
+        "delete_log": "Excluir registro",
         "decline_with_message": "Recusar com mensagem"
       },
       "filters": {
@@ -473,8 +473,8 @@
       }
     },
     "friend_list": {
-      "bulk_unfriend": "Modo de Desamizade em Massa",
-      "bulk_unfriend_selection": "Seleção de Desamizade em Massa",
+      "bulk_unfriend": "Modo Desfazer Amizade em Massa",
+      "bulk_unfriend_selection": "Seleção Desfazer Amizade em Massa",
       "load": "Carregar entradas ausentes",
       "load_dialog_title": "Carregar entradas ausentes",
       "load_dialog_message": "Recuperando campos de perfil ausentes para seus amigos.",
@@ -749,7 +749,7 @@
           "auto_update_off": "Desativado",
           "auto_update_notify": "Notificar",
           "auto_update_download": "Download Automático",
-          "change_log": "Log de Alterações",
+          "change_log": "Registro de Alterações",
           "updater_disabled": "Atualizador desativado, as atualizações são gerenciadas pelo seu gerenciador de pacotes."
         },
         "application": {
@@ -765,7 +765,7 @@
         },
         "favorites": {
           "header": "Grupos de Favoritos para Filtragem",
-          "header_tooltip": "Escolha quais grupos de favoritos são tratados como VIP para filtragem no Feed, Log do Jogo, Notificações e Overlay VR",
+          "header_tooltip": "Escolha quais grupos de favoritos são tratados como VIP para filtragem no Feed, Registro do Jogo, Notificações e Overlay VR",
           "group_placeholder": "Escolher Grupos"
         },
         "logging": {
@@ -936,7 +936,7 @@
         },
         "friend_log": {
           "header": "Log de Amigos",
-          "hide_unfriends": "Ocultar Desamizades"
+          "hide_unfriends": "Ocultar Amizades Desfeitas"
         }
       },
       "notifications": {
@@ -1146,8 +1146,8 @@
           },
           "cache_debug": {
             "header": "Cache/Debug de Instância VRCX",
-            "udon_exception_logging": "Log de Exceções Udon",
-            "disable_gamelog": "Desativar GameLog",
+            "udon_exception_logging": "Registro de Exceções do Udon",
+            "disable_gamelog": "Desabilitar Registro de Jogo",
             "disable_gamelog_notice": "(provavelmente quebrará coisas)",
             "user_cache": "Cache de Usuário:",
             "world_cache": "Cache de Mundo:",
@@ -1168,7 +1168,7 @@
             "bio": "Bio:",
             "avatar": "Avatar:",
             "online_offline": "Online/Offline:",
-            "friend_log_history": "Histórico do Log de Amigos:",
+            "friend_log_history": "Histórico de Registro de Amigo:",
             "notification": "Notificações:",
             "location": "Localização:",
             "join_leave": "Entrar/Sair:",
@@ -1211,7 +1211,7 @@
           }
         },
         "photon": {
-          "header": "Overlay de Log Photon",
+          "header": "Sobreposição de Registro Photon",
           "event_hud": {
             "header": "HUD de Eventos Photon",
             "enable": "Ativar",
@@ -1472,7 +1472,7 @@
         "private": "Privado",
         "avatar_scaling_disabled": "Escala de Avatar Desativada",
         "focus_view_disabled": "Visão de Foco Desativada",
-        "future_proofing": "Future Proofing",
+        "future_proofing": "Preparado para o Futuro",
         "labs": "Labs",
         "cache": "Cache",
         "content_horror": "Terror",
@@ -1552,7 +1552,7 @@
         "private": "Privado",
         "fallback": "Fallback",
         "impostor": "Impostor",
-        "future_proofing": "Future Proofing",
+        "future_proofing": "Preparado para o Futuro",
         "cache": "Cache",
         "content_horror": "Terror",
         "content_gore": "Gore",
@@ -2190,7 +2190,7 @@
       "members": "Membros",
       "bans": "Bans",
       "invites": "Convites",
-      "logs": "Logs",
+      "logs": "Registros",
       "sent_invites": "Convites Enviados",
       "join_requests": "Solicitações de Entrada",
       "blocked_requests": "Solicitações Bloqueadas",
@@ -2229,7 +2229,7 @@
       "selected_roles": "Cargos Selecionados",
       "remove_roles": "Remover Cargos",
       "add_roles": "Adicionar Cargos",
-      "export_logs": "Exportar Logs",
+      "export_logs": "Exportar Registros",
       "export_bans": "Exportar Bans",
       "import_bans": "Importar Bans",
       "import_bans_description": "Cole CSV ou IDs de usuário abaixo. A coluna userId será detectada automaticamente dos cabeçalhos CSV, ou todos os IDs usr_ serão extraídos.",
@@ -2351,7 +2351,7 @@
     "select_avatar": "Continuar? Selecionar Avatar",
     "invite": "Continuar? Convidar",
     "invite_group": "Continuar? Convidar Usuário(s) para o Grupo",
-    "delete_log": "Continuar? Excluir Log",
+    "delete_log": "Continue? Excluir Registro",
     "accept_friend_request": "Continuar? Aceitar Pedido de Amizade",
     "send_invite": "Continuar? Enviar Convite",
     "decline_type": "Continuar? Recusar {type}",
@@ -2363,7 +2363,7 @@
     "block_group": "Tem certeza que deseja bloquear este grupo?",
     "unblock_group": "Tem certeza que deseja desbloquear este grupo?",
     "leave_group": "Tem certeza que deseja sair deste grupo?",
-    "disable_gamelog": "Continuar? Desativar GameLog",
+    "disable_gamelog": "Continuar? Desativar Registro do Jogo",
     "restore_backup": "Continuar? Restaurar Backup",
     "delete_vrc_registry": "Continuar? Excluir Configurações de Registro do VRC",
     "clear_cache": "Continuar? Limpar todo o cache do VRChat",
