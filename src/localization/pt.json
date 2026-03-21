@@ -483,7 +483,7 @@
       "favorites_only_tooltip": "Filtrar apenas favoritos",
       "search_placeholder": "Pesquisar",
       "filter_placeholder": "Filtrar",
-      "load_mutual_friends": "Carregar Amigos em Comum"
+      "load_mutual_friends": "Carregar Amigos Mútuos"
     },
     "charts": {
       "instance_activity": {
@@ -506,7 +506,7 @@
         }
       },
       "mutual_friend": {
-        "tab_label": "Rede de Amigos em Comum",
+        "tab_label": "Rede de Amigos Mútuos",
         "actions": {
           "start_fetch": "Iniciar Busca",
           "fetch_again": "Buscar Novamente",
@@ -516,7 +516,7 @@
         },
         "status": {
           "no_friends_to_process": "Você não tem amigos para processar",
-          "loading_cache": "Carregando amigos em comum do cache do banco de dados"
+          "loading_cache": "Carregando amigos mútuos do cache do banco de dados"
         },
         "progress": {
           "friends_processed": "Amigos processados",
