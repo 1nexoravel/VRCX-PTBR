@@ -744,7 +744,7 @@
         },
         "vrcx_updater": {
           "header": "Atualizador do VRCX",
-          "change_build": "Alterar Versão",
+          "change_build": "Alterar Compilação",
           "update_action": "Ação de Atualização",
           "auto_update_off": "Desativado",
           "auto_update_notify": "Notificar",
@@ -2319,7 +2319,16 @@
       "header": "Aviso de Software de Código Aberto",
       "description": "O VRCX é baseado em software de código aberto. Foi possível graças às contribuições deles.",
       "loading": "Carregando avisos de terceiros gerados...",
-      "unavailable": "Nenhum manifesto de avisos de terceiros gerado está disponível nesta versão. Execute uma compilação de produção para gerá-lo novamente."
+      "unavailable": "Nenhum manifesto de avisos de terceiros gerado está disponível nesta versão. Execute uma compilação de produção para gerá-lo novamente.",
+      "search_placeholder": "Pesquisar pacotes, versões ou licenças",
+      "notice_location_prefix": "Local do arquivo completo de avisos no diretório do aplicativo:",
+      "open_project": "Abrir Projeto",
+      "open_license_url": "Abrir URL da Licença",
+      "notice_unavailable": "Nenhum texto de licença local foi gerado para esta entrada. Abra o arquivo completo de avisos e revise este componente antes do lançamento.",
+      "select_package": "Selecione um pacote para ver os detalhes.",
+      "review_required": "Revisão necessária",
+      "no_results": "Nenhum pacote correspondente encontrado.",
+      "no_version": "Sem metadados de versão"
     },
     "primary_password": {
       "header": "Senha Principal Necessária",
@@ -2627,6 +2636,12 @@
     },
     "database": {
       "upgrade_complete": "Atualização do banco de dados concluída",
+      "upgrade_in_progress_title": "Atualização do banco de dados em andamento",
+      "upgrade_in_progress_description": "Atualizando o banco de dados da versão {from} para {to}. Por favor, não feche o VRCX.",
+      "upgrade_in_progress_initializing": "Inicializando a atualização do banco de dados. Por favor, não feche o VRCX.",
+      "upgrade_in_progress_wait": "As ações do usuário estão temporariamente bloqueadas até que a atualização seja concluída.",
+      "upgrade_failed_title": "Falha na atualização do banco de dados",
+      "upgrade_failed_description": "Falha na atualização do banco de dados. Verifique o console para mais detalhes.",
       "disk_space": "Por favor, libere espaço em disco.",
       "disk_error": "Por favor, verifique seu disco em busca de erros."
     },
