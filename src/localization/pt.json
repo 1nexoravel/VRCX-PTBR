@@ -1460,7 +1460,10 @@
         },
         "most_visited_worlds": {
           "header": "Mundos Mais Visitados"
-        }
+        },
+        "preparing_data": "Preparando dados de atividade...",
+        "preparing_data_hint": "Isso pode levar um momento no primeiro carregamento. Você será notificado quando estiver pronto.",
+        "data_ready": "Os dados de atividade estão prontos"
       },
       "note_memo": {
         "header": "Editar Nota e Memo",
@@ -2298,8 +2301,8 @@
       "ready_for_update": "Pronto para instalação, reinicie o VRCX para aplicar.",
       "branch_stable": "Estável",
       "branch_nightly": "Nightly",
-      "nightly_title": "Builds Nightly",
-      "nightly_notice": "Builds Nightly são para testes. Para estabilidade, use a build estável.",
+      "nightly_title": "Versões Nightly",
+      "nightly_notice": "Versões Nightly são para testes. Para estabilidade, use a versão estável.",
       "release": "Lançamento",
       "download": "Baixar",
       "install": "Instalar",
@@ -2314,7 +2317,9 @@
     },
     "open_source": {
       "header": "Aviso de Software de Código Aberto",
-      "description": "O VRCX é baseado em software de código aberto. Foi possível graças às contribuições deles."
+      "description": "O VRCX é baseado em software de código aberto. Foi possível graças às contribuições deles.",
+      "loading": "Carregando avisos de terceiros gerados...",
+      "unavailable": "Nenhum manifesto de avisos de terceiros gerado está disponível nesta versão. Execute uma compilação de produção para gerá-lo novamente."
     },
     "primary_password": {
       "header": "Senha Principal Necessária",
