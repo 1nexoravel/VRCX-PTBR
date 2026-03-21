@@ -1427,6 +1427,8 @@
       },
       "activity": {
         "header": "Atividade",
+        "load": "Carregar Atividade",
+        "load_hint": "Carregar dados de atividade do banco de dados local quando necessário.",
         "total_events": "{count} eventos online",
         "times_online": "vezes online",
         "most_active_day": "Dia mais ativo:",
