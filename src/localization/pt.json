@@ -523,14 +523,14 @@
           "no_relationships_discovered": "Nenhuma relação descoberta"
         },
         "prompt": {
-          "title": "Rede de Amigos em Comum",
-          "message": "Nenhum dado de amigos em comum em cache foi encontrado. Iniciar busca agora? Isso pode demorar um pouco, iremos notificá-lo quando terminar",
+          "title": "Rede de Amigos Mútuos",
+          "message": "Nenhum dado de amigos mútuos em cache foi encontrado. Iniciar busca agora? Isso pode demorar um pouco, iremos notificá-lo quando terminar",
           "confirm": "Iniciar Busca",
           "cancel": "Talvez Depois"
         },
         "enable_sharing_prompt": {
-          "title": "Ativar Compartilhamento de Amigos em Comum",
-          "message": "O compartilhamento de amigos em comum está atualmente desativado. Deseja ativá-lo agora?",
+          "title": "Ativar Compartilhamento de Amigos Mútuos",
+          "message": "O compartilhamento de amigos mútuos está atualmente desativado. Deseja ativá-lo agora?",
           "confirm": "Ativar",
           "cancel": "Cancelar"
         },
@@ -539,9 +539,9 @@
         },
         "notifications": {
           "start_fetching": "Busca iniciada",
-          "mutual_friend_graph_ready_title": "Grafo de Rede de Amigos em Comum",
-          "mutual_friend_graph_ready_message": "O grafo de rede de amigos em comum está pronto",
-          "friend_list_changed_fetch_again": "A lista de amigos mudou. Por favor, busque a rede de amigos em comum novamente."
+          "mutual_friend_graph_ready_title": "Grafo de Rede de Amigos Mútuos",
+          "mutual_friend_graph_ready_message": "O grafo de rede de amigos mútuos está pronto",
+          "friend_list_changed_fetch_again": "A lista de amigos mudou. Por favor, busque a rede de amigos mútuos novamente."
         },
         "settings": {
           "title": "Configurações de Layout do Grafo",
@@ -1261,7 +1261,7 @@
         "vrchat_team": "Equipe VRChat",
         "age_verified": "Idade Verificada",
         "trust_level": "Nível de Confiança",
-        "mutual_friends": "Amigos em Comum",
+        "mutual_friends": "Amigos Mútuos",
         "open_in_discord": "Abrir no Discord",
         "discord": "Discord"
       },
@@ -1362,7 +1362,7 @@
         "close_instance": "Encerrar Instância",
         "instance_age_gated": "Restrição de Idade",
         "open_previous_instance": "Abrir Instâncias Anteriores",
-        "show_mutual_friends": "Mostrar Amigos em Comum",
+        "show_mutual_friends": "Mostrar Amigos Mútuos",
         "show_discord_connections": "Mostrar Conexões do Discord"
       },
       "groups": {
@@ -1373,7 +1373,7 @@
         "exit_edit_mode": "Sair do Modo de Edição",
         "hold_shift": "Segure Shift para sair sem confirmação",
         "own_groups": "Meus Grupos",
-        "mutual_groups": "Grupos em Comum",
+        "mutual_groups": "Grupos Mútuos",
         "groups": "Grupos",
         "sorting": {
           "alphabetical": "Ordem Alfabética",
