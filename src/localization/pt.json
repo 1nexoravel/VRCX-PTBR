@@ -1418,7 +1418,7 @@
         "header": "JSON"
       },
       "mutual_friends": {
-        "header": "Amigos em Comum",
+        "header": "Amigos Mútuos",
         "sorting": {
           "alphabetical": "Ordem Alfabética",
           "last_active": "Último Ativo",
@@ -2823,7 +2823,7 @@
       "lastLogin": "Último Login",
       "dateJoined": "Data de Entrada",
       "unfriend": "Desfazer Amizade",
-      "mutualFriends": "Amigos em Comum"
+      "mutualFriends": "Amigos Mútuos"
     },
     "profile": {
       "invite_messages": {
@@ -2961,7 +2961,7 @@
       "features": {
         "user_profiles": {
           "title": "Perfis de Usuário",
-          "description": "Clique em qualquer usuário para ver amigos em comum, mapas de calor de atividade e logs de sessão com detalhes de entrada/saída"
+          "description": "Clique em qualquer usuário para ver amigos mútuos, mapas de calor de atividade e logs de sessão com detalhes de entrada/saída"
         },
         "right_click": {
           "title": "Menus de Contexto",
